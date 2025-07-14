@@ -1,0 +1,19 @@
+Pokemon Type Colors: 
+Bug #77820f
+Dark #514343
+Dragon #232f98
+Electric #c59b00
+Fairy #801e86
+Fighting #c66a00
+Fire #a9220f
+Flying #214a7c
+Ghost #5b3a5e
+Grass #438225
+Ground #73461e
+Ice #3186a6
+Normal #53585b
+Poison #6a339c
+Psychic #9b1e40
+Rock #545038
+Steel #467285
+Water #2559b2
